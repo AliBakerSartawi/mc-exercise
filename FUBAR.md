@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 ## lab15 conflict
+Ayah abuhammad
 
 # Danya Al-Qaramseh
-=======
 # Lab: 15 - Merge conflicts
 
  - Team members:
@@ -14,4 +13,3 @@
 ali baker sartawi
 1+1+1+1=4 .......edit by musab-al-omari
 
->>>>>>> main
